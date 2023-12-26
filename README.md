@@ -22,7 +22,7 @@ Android Applications
 
 Connect with Me
 
-LinkedIn: [Connect](linkedin.com/in/aryan-srivastava-006965222)
+LinkedIn: [Connect](http://linkedin.com/in/aryan-srivastava-006965222)
 
 Get in Touch
 📧 Email: aryansri.official@gmail.com
