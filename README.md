@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Aryan Srivastava.
-- I am a tech enthusiast and a learner.
-- I learnt JAVA,C and PYTHON.
-- I have interest in Machine Learning and I have worked with ML modles.
-- I am into Android App development as well.  
+👋 Hello, I'm Aryan Srivastava. Welcome to my GitHub repository!
 
-<!---
-Sri-Aryan/Sri-Aryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me :
+
+🚀 Tech enthusiast and learner.
+💻 Proficient in JAVA, C++, and PYTHON.
+🤖 Interest in Machine Learning; actively worked on ML models.
+📱 Android App developer.
+
+Technical Expertise :
+
+Languages: JAVA, C++, PYTHON
+Machine Learning: Explored and implemented ML models.
+Android Development: Created user-friendly Android applications.
+Projects
+
+Machine Learning Models
+
+Classification and regression tasks.
+Application of diverse algorithms.
+Android Applications
+
+Connect with Me
+
+LinkedIn: [Connect](linkedin.com/in/aryan-srivastava-006965222)
+
+Get in Touch
+📧 Email: aryansri.official@gmail.com
