@@ -1,4 +1,4 @@
-# [Aryan Srivastava]  
+# Aryan Srivastava 
 
 ## Software Developer | Mobile Developer | AI Enthusiast  
 
