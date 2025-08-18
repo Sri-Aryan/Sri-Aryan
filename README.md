@@ -15,7 +15,7 @@ I specialize in creating efficient, scalable, and user-focused applications by c
 
 ---
 
-## Summary of Experience  
+## Experience  
 
 - Developed Android and cross-platform applications with focus on responsive design, accessibility, and performance optimization.  
 - Implemented real-time gesture recognition using OpenCV, TensorFlow Lite, and GPU acceleration for high-accuracy detection.  
