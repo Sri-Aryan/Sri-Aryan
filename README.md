@@ -1,4 +1,4 @@
-# Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="30"> , I'm Aryan Srivastava 
+# Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> , I'm Aryan Srivastava 
 
 ## Software Developer | Mobile Developer | AI Enthusiast  
 
