@@ -1,4 +1,4 @@
-# Aryan Srivastava 
+# Hi :wave: , I'm Aryan Srivastava 
 
 ## Software Developer | Mobile Developer | AI Enthusiast  
 
