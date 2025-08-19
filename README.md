@@ -31,4 +31,8 @@ I specialize in creating efficient, scalable, and user-focused applications by c
 ## Contact  
 
 - LinkedIn: [Aryan](https://www.linkedin.com/in/aryan-srivastava-006965222/)  
-- Email: aryansri.official@gmail.com  
+- Email: aryansri.official@gmail.com
+
+
+![dev-working_rounded](https://github.com/user-attachments/assets/94771fb3-5346-4731-959f-1d5223b48ebd)
+
