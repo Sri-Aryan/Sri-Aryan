@@ -31,8 +31,7 @@ With hands-on expertise in mobile and AI, I've built apps that scale, perform, a
 ---
 
 ## 🔗 Let's Connect & Collaborate!
-
-- **LinkedIn**: [Aryan](https://www.linkedin.com/in/aryan-srivastava-006965222/)  
+ 
 - **Email**: aryansri.official@gmail.com
 
 
