@@ -32,7 +32,7 @@ With hands-on expertise in mobile and AI, I've built apps that scale, perform, a
 
 ## 🔗 Let's Connect & Collaborate!
  
-- **Email**: aryansri.official@gmail.com
+- **Email**: aryansri.dev@gmail.com
 
 
 ![dev-working_rounded](https://github.com/user-attachments/assets/94771fb3-5346-4731-959f-1d5223b48ebd)
