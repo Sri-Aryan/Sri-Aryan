@@ -19,13 +19,13 @@ I specialize in creating efficient, scalable, and user-focused applications by c
 
 With hands-on expertise in mobile and AI, I've built apps that scale, perform, and delight. Here's a snapshot of my journey:  
 
-- **📱 Mobile Mastery**: Developed high-performance Android and cross-platform apps emphasizing responsive design, accessibility, and optimization – ensuring smooth experiences on any device.  
-- **🤖 AI-Powered Innovation**: Created real-time gesture recognition systems using OpenCV, TensorFlow Lite, and GPU acceleration for pinpoint accuracy in dynamic environments.  
-- **☁️ Scalable Solutions**: Engineered robust mobile apps with Firebase Authentication, seamless API integrations, and offline caching to handle real-world demands without a hitch.  
+- **📱 Mobile Mastery**: Developed Android and cross-platform apps emphasizing responsive design, accessibility, and optimization – ensuring smooth experiences on any device.  
+- **🤖 AI-Powered**: Created real-time gesture recognition systems using OpenCV, TensorFlow Lite, and GPU acceleration for pinpoint accuracy in dynamic environments.  
+- **☁️ Scalable Solutions**: Engineered robust mobile apps with Firebase , seamless API integrations, and offline caching to handle real-world demands without a hitch.  
 - **🏗️ Architecture Expertise**: Leveraged MVVM, LiveData, and Coroutines to build maintainable, responsive Android apps that are easy to scale and debug.  
-- **🎨 UI/UX Excellence**: Designed intuitive, user-centric interfaces with XML layouts, custom Flutter widgets, and Jetpack Compose – focusing on beauty and functionality.  
+- **🎨 UI/UX**: Designed intuitive, user-centric interfaces with XML layouts, custom Flutter widgets, and Jetpack Compose – focusing on functionality.  
 - **🧠 AI-Driven Projects**: Built transformer-based models, NLP tools, and intelligent assistant apps that solve real problems with smart tech.  
-- **⚡ Optimization**: Excelled in debugging, performance tuning, and workflow streamlining to deliver efficient, reliable software.  
+- **⚡ Optimization**: Debugging, performance tuning, and workflow streamlining to deliver efficient, reliable software.  
 - **📚 Foundational Strength**: Grounded in algorithms, data structures, and software engineering principles for building solid, future-proof systems.  
 
 ---
