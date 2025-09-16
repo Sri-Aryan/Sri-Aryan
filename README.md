@@ -19,7 +19,7 @@ I specialize in creating efficient, scalable, and user-focused applications by c
 
 With hands-on expertise in mobile and AI, I've built apps that scale, perform, and delight. Here's a snapshot of my journey:  
 
-- **📱 Mobile Mastery**: Developed Android and cross-platform apps emphasizing responsive design, accessibility, and optimization – ensuring smooth experiences on any device.  
+- **📱 Mobile**: Developed Android and cross-platform apps emphasizing responsive design, accessibility, and optimization – ensuring smooth experiences on any device.  
 - **🤖 AI-Powered**: Created real-time gesture recognition systems using OpenCV, TensorFlow Lite, and GPU acceleration for pinpoint accuracy in dynamic environments.  
 - **☁️ Scalable Solutions**: Engineered robust mobile apps with Firebase , seamless API integrations, and offline caching to handle real-world demands without a hitch.  
 - **🏗️ Architecture Expertise**: Leveraged MVVM, LiveData, and Coroutines to build maintainable, responsive Android apps that are easy to scale and debug.  
@@ -30,7 +30,7 @@ With hands-on expertise in mobile and AI, I've built apps that scale, perform, a
 
 ---
 
-## 🔗 Let's Connect & Collaborate!
+## 🔗 Collaborate
  
 - **Email**: aryansri.dev@gmail.com
 
