@@ -37,3 +37,5 @@ With hands-on expertise in mobile and AI, I've built apps that scale, perform, a
 
 ![dev-working_rounded](https://github.com/user-attachments/assets/94771fb3-5346-4731-959f-1d5223b48ebd)
 
+
+![](https://komarev.com/ghpvc/?username=Sri-Aryan&label=Views&color=grey&style=plastic)
