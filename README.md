@@ -2,7 +2,6 @@
 
 ## 👨‍💻 Software Developer | 📱 Mobile Developer | 🤖 AI Enthusiast  
 
----
 
 ## 🛠️ Skills  
 
