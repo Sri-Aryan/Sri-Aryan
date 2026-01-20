@@ -2,16 +2,14 @@
 
 ## 👨‍💻 Software Developer | 📱 Mobile Developer | 🤖 AI Enthusiast  
 
-I specialize in creating efficient, scalable, and user-focused applications by combining expertise in mobile development, machine learning, and clean architecture.
-
 ---
 
 ## 🛠️ Skills  
 
-- **💻 Languages**: Kotlin, Dart, Java, Python, C, SQL, JSON  
-- **📱 Mobile**: Flutter, Firebase, SDK, Jetpack Compose, Retrofit, Room, MVVM, Coroutines, API
+- **💻 Languages**: Kotlin, Dart, Java, Python, C, SQL
+- **📱 Mobile**: Flutter, Firebase, SDK, Jetpack Compose, Retrofit, Room, MVVM, Coroutines, API, Riverpod, Provider
 - **🧠 ML & AI**: TensorFlow, OpenCV, Transformers, NLP  
-- **⚙️ Tools**: Android Studio, SDK, Visual Studio Code, JUnit, Git, MySQL, Gradle  
+- **⚙️ Tools**: Android Studio, SDK, VS Code, JUnit, Git, MySQL, Gradle  
 
 ---
 
