@@ -14,7 +14,7 @@
 
 ## 🌟 Experience  
 
-With hands-on expertise in mobile and AI, I've built apps that scale, perform, and delight. Here's a snapshot of my journey:  
+With hands-on expertise in mobile and AI. Here's a snapshot of my journey:  
 
 - **📱 Mobile**       : Developed Android and cross-platform apps emphasizing responsive design, accessibility, and optimization – ensuring smooth experiences on any device.  
 - **🤖 AI-Powered**   : Created real-time gesture recognition systems using OpenCV, TensorFlow Lite, and GPU acceleration for pinpoint accuracy in dynamic environments.  
