@@ -16,7 +16,7 @@
 
 With hands-on expertise in mobile and AI. Here's a snapshot of my journey:  
 
-- **📱 Mobile**       : Developed Android and cross-platform apps emphasizing responsive design, accessibility, and optimization – ensuring smooth experiences on any device.  
+- **📱 Mobile**       : Developed Android and cross-platform apps emphasizing responsive design, accessibility, and optimization.  
 - **🤖 AI-Powered**   : Created real-time gesture recognition systems using OpenCV, TensorFlow Lite, and GPU acceleration for pinpoint accuracy in dynamic environments.  
 - **☁️ Scalable**     : Engineered robust mobile apps with Firebase , seamless API integrations, and offline caching to handle real-world demands without a hitch.  
 - **🏗️ Architecture** : Leveraged MVVM, LiveData, and Coroutines to build maintainable, responsive Android apps that are easy to scale and debug.  
